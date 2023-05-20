@@ -1,0 +1,3 @@
+Number of Nodes: 23173
+Number of Edges: 6877773
+Density: 0.025617223190715334

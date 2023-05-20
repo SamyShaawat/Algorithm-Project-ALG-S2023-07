@@ -1,0 +1,4 @@
+Source Node: Condomonium
+Target Node: Grouchy_Ad_6333
+Shortest Path: ['Condomonium', 'fartuni4', 'Grouchy_Ad_6333']
+Shortest Path Length: 2

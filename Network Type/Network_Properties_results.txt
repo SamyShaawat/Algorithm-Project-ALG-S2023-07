@@ -1,0 +1,2 @@
+Average Degree: 593.6022957752557
+Average Clustering Coefficient: 0.9765716816521322
