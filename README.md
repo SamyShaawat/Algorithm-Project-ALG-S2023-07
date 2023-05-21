@@ -55,4 +55,4 @@ The repo contains the following folders:
 ## .gitignore
 
 - This repo contains a .gitignore file that specifies the files and folders that Git should ignore. The main file that is ignored is Network.graphml, which is a large XML file that contains the network structure. This file represents the network as a graph with nodes and edges, where each node corresponds to a username and each edge corresponds to a common subreddit between two usernames. The edge data also contains the list of subreddits that the two usernames follow.
-- this file exist in every folder in the repo because it Network.graphml used in every analysis and can not upload it with the repo because it is very big file 
+- This file exist in every folder in the repo because it Network.graphml used in every analysis and can not upload it with the repo because it is very big file 
