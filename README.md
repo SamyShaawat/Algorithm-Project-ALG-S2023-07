@@ -12,8 +12,8 @@ The dataset was collected by scraping Reddit using the PRAW library.
 
 The network was constructed from the dataset as follows:
 
-- Nodes: usernames
-- Edges: common subreddit between two usernames
+- Nodes: Usernames
+- Edges: common Subreddit(s) between two usernames
 
 The network was visualized and analyzed using NetworkX and Graphml.
 
