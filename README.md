@@ -21,20 +21,20 @@ The network was visualized and analyzed using NetworkX and Graphml.
 
 The following analyses were performed on the network:
 
-- Degree analysis: to measure the number of edges connected to each node and the average degree of the graph.
-- Degree distribution analysis: to examine the frequency distribution of the number of edges per node and compare it with theoretical models such as Poisson, power-law, and exponential.
-- Path analysis: to measure the average shortest path length and diameter of the network and compare them with random graphs.
-- Centrality analysis: to rank the nodes according to their importance or influence in the network using metrics such as degree centrality, betweenness centrality, closeness centrality, and eigenvector centrality.
-- Connected components analysis: to identify the largest connected component and the number of isolated nodes in the network and calculate their fractions of the total nodes.
-- Clustering coefficients: to measure the tendency of nodes to form clusters or triangles in the network and compare them with random graphs.
-- Density analysis: to measure the ratio of actual edges to possible edges in the network and compare it with random graphs.
-- Network type: to classify the network as scale-free, small-world, random, or regular based on its properties such as degree distribution, clustering coefficient, average path length, and diameter.
-- Community discovery: to detect groups of nodes that are more densely connected to each other than to the rest of the network using algorithms such as Louvain method, Girvan-Newman method, and Label Propagation method and evaluate their quality using modularity and silhouette scores.
-- Dynamic community discovery: to track how communities evolve over time using dynamic network analysis techniques such as temporal snapshots, sliding windows, and event detection.
+- Degree Analysis: to measure the number of edges connected to each node and the average degree of the graph.
+- Degree Distribution Analysis: to examine the Fraction  distribution of the number of edges per node.  
+- Path Analysis: to measure the average shortest path length and diameter of the network and compare them with random graphs.
+- Centrality Analysis: to rank the nodes according to their importance or influence in the network using metrics such as degree centrality, betweenness centrality, closeness centrality, and eigenvector centrality.
+- Connected Components Analysis: to identify the largest connected component and the number of isolated nodes in the network and calculate their fractions of the total nodes.
+- Clustering Coefficients: to measure the tendency of nodes to form clusters or triangles in the network and compare them with random graphs.
+- Density Analysis: to measure the ratio of actual edges to possible edges in the network and compare it with random graphs.
+- Network Type: to classify the network as scale-free, small-world, random, or regular based on its properties such as degree distribution, clustering coefficient, average path length, and diameter.
+- Community Discovery: to detect groups of nodes that are more densely connected to each other than to the rest of the network using algorithms such as Louvain method, Girvan-Newman method, and Label Propagation method and evaluate their quality using modularity and silhouette scores.
+- Dynamic Community Discovery: to track how communities evolve over time using dynamic network analysis techniques such as temporal snapshots, sliding windows, and event detection.
 
 I hope this helps. 😊
 
-## Folders
+## Folders in the Repo
 
 The repo contains the following folders:
 
@@ -54,5 +54,6 @@ The repo contains the following folders:
 
 ## .gitignore
 
-- This repo contains a .gitignore file that specifies the files and folders that Git should ignore. The main file that is ignored is Network.graphml, which is a large XML file that contains the network structure. This file represents the network as a graph with nodes and edges, where each node corresponds to a username and each edge corresponds to a common subreddit between two usernames. The edge data also contains the list of subreddits that the two usernames follow.
-- This file exist in every folder in the repo because it Network.graphml used in every analysis and can not upload it with the repo because it is very big file 
+- This file exist in every folder in the repo because  Network.graphml used in every analysis and can not upload it with the repo because it is very big file 
+- The file that is ignored is Network.graphml, which is a large XML file that contains the network structure. This file represents the network as a graph with Nodes and Edges, where each Node corresponds to a Usernames and each Edge corresponds to a common Subreddit(s) between two usernames. The edge data also contains the list of subreddits that the two usernames follow.
+
