@@ -1,6 +1,6 @@
 # Network Analysis of Reddit for Egyptians
 
-Our goal is to analyze the network structure and dynamics of Reddit users who follow Egyptian subreddits. We constructed a network from a dataset of 23185 usernames and 105 subreddits, where each node represents a user and each edge represents a common subreddit between two users. 
+Our goal is to analyse the network structure and dynamics of Reddit users who follow Egyptian subreddits. We constructed a network from a dataset of 23185 usernames and 105 subreddits, where each node represents a user and each edge represents a common subreddit between two users. 
 
 ## Dataset
 
