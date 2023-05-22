@@ -32,7 +32,7 @@ The following analyses were performed on the network:
 - Community Discovery: to detect groups of nodes that are more densely connected to each other than to the rest of the network using algorithms such as Louvain method, Girvan-Newman method, and Label Propagation method and evaluate their quality using modularity and silhouette scores.
 - Dynamic Community Discovery: to track how communities evolve over time using dynamic network analysis techniques such as temporal snapshots, sliding windows, and event detection.
 
-I hope this helps. 😊
+
 
 ## Folders in the Repo
 
