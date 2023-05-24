@@ -1,0 +1,9 @@
+Histogram data:
+Bin edges: [ 0.   1301.9  2603.8  3905.7  5207.6  6509.5  7811.4  9113.3 10415.2 11717.1 13019. ]
+Frequencies: [22964   201     4     0     2     0     0     1     0     1]
+
+Description:
+The degree distribution of the graph has 10 bins, ranging from 0 to 13019.
+The average degree is 593.6022957752557, with a standard deviation of 257.9818675251648.
+The distribution is positively skewed, meaning that most nodes have low degrees and a few nodes have high degrees.
+The distribution is leptokurtic, meaning that it has a sharp peak and heavy tails.
