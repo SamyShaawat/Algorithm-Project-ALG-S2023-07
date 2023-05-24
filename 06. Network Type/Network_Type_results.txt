@@ -1,1 +1,1 @@
-Network Type: Small-World Network
+Network Type: Small World Network
