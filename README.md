@@ -4,7 +4,7 @@ Our goal is to analyse the network structure and dynamics of Reddit users who fo
 
 ## Dataset
 
-The dataset consists of 23185 rows and 16 columns. The first column contains the usernames of 23185 Reddit users who follow at least one Egyptian subreddit. The other 15 columns contain the names of the subreddits that each user follows. There are 105 Egyptian subreddits in total.
+The dataset consists of 23185 rows and 24 columns. The first column contains the usernames of 23185 Reddit users who follow at least one Egyptian subreddit. The other 23 columns contain the names of the subreddits that each user follows. There are 105 Egyptian subreddits in total.
 
 The dataset was collected by scraping Reddit using the PRAW library.
 
