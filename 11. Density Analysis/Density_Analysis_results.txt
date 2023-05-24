@@ -1,3 +1,7 @@
 Number of Nodes: 23173
 Number of Edges: 6877773
-Density: 0.025617223190715334
+
+The number of possible edges in a graph : 268482378
+
+Density Ratio: 0.025617
+
