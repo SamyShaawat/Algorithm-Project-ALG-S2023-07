@@ -1,3 +1,9 @@
+Minimum degree: 0
+Maximum degree: 13019
+Average degree: 593.6022957752557
+Total number of degrees: 13755546
+
+
 Degree of each node:
 Node rampzn: 393
 Node pencilpushin: 393
@@ -23173,7 +23179,3 @@ Node Darnlljones: 221
 Node msbun: 221
 Node samcon30: 221
 
-Minimum degree: 0
-Maximum degree: 13019
-Average degree: 593.6022957752557
-Total number of degrees: 13755546

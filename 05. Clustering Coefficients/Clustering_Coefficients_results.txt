@@ -1,3 +1,5 @@
+Average Clustering Coefficient: 0.9765716816521322
+
 Node rampzn: Clustering Coefficient = 1.0
 Node pencilpushin: Clustering Coefficient = 1.0
 Node Vardath: Clustering Coefficient = 1.0
@@ -23171,4 +23173,4 @@ Node pumpin_jumpin: Clustering Coefficient = 1.0
 Node Darnlljones: Clustering Coefficient = 1.0
 Node msbun: Clustering Coefficient = 1.0
 Node samcon30: Clustering Coefficient = 1.0
-Average Clustering Coefficient: 0.9765716816521322
+
